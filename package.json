@@ -1,0 +1,20 @@
+{
+  "name": "mocha_chai",
+  "version": "1.0.0",
+  "description": "Mocha chai testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Akshay Wayangankar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "body-parser": "^1.20.1",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.1",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
